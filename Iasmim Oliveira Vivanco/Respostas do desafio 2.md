@@ -4,8 +4,8 @@
 2. Responda, qual categoria de operadores foram utilizadas nessa atividade?
 
 [ ]Ternário, comparação e lógico, Console.Write() e Console.Read().\
-[X]Aritméticos de atribuição, Console.Write() e Console.Read().\
-[ ]Aritméticos, Console.Write() e Console.Read().\
+[ ]Aritméticos de atribuição, Console.Write() e Console.Read().\
+[X]Aritméticos, Console.Write() e Console.Read().\
 [ ]Apenas aritméticos.\
 
 3. Responda, porque a variável quilometrosPercorridosPeloVeiculo não foi declarada com const?
